@@ -36,6 +36,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+megha_trial.ipynb
 # Unit test / coverage reports
 htmlcov/
 .tox/
