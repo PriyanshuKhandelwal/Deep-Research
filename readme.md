@@ -1,7 +1,3 @@
-# Sample readme file
-# Some other changes
-# Just checking 2 
-
 # OpenAI Agents SDK - Agent() Parameters Guide
 
 This is a comprehensive list of all parameters you can pass to the `Agent()` constructor in the OpenAI Agents Python SDK.
